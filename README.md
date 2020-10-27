@@ -2,4 +2,4 @@
 
 Heroes application.
 
-- [Gif](https://flutter.dev/docs/get-started/codelab)
+![Gif](https://github.com/MaiaraM/heoes_app/blob/master/images/exemplo.gif?raw=true)
